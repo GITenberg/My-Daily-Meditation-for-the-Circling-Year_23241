@@ -1,0 +1,29 @@
+_repo: My-Daily-Meditation-for-the-Circling-Year_23241
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Jowett, John Henry
+    alias: Jowett, J. H. (John Henry)
+    birthdate: 1864
+    deathdate: 1923
+    gutenberg_agent_id: '25771'
+    url: http://www.gutenberg.org/2009/agents/25771
+description: ''
+gutenberg_issued: '2007-10-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23241'
+  lccn: '14016179'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Calendars'
+- !lcsh 'Devotional exercises'
+- !lcc 'BV'
+title: My Daily Meditation for the Circling Year
+url: http://www.gutenberg.org/ebooks/23241
